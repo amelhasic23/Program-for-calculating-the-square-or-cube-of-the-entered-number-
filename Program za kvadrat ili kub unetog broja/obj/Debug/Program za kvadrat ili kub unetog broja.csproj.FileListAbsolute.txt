@@ -1,0 +1,7 @@
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\bin\Debug\Program za kvadrat ili kub unetog broja.exe.config
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\bin\Debug\Program za kvadrat ili kub unetog broja.exe
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\bin\Debug\Program za kvadrat ili kub unetog broja.pdb
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\obj\Debug\Program za kvadrat ili kub unetog broja.csproj.AssemblyReference.cache
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\obj\Debug\Program za kvadrat ili kub unetog broja.csproj.CoreCompileInputs.cache
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\obj\Debug\Program za kvadrat ili kub unetog broja.exe
+F:\Program za kvadrat ili kub unetog broja\Program za kvadrat ili kub unetog broja\obj\Debug\Program za kvadrat ili kub unetog broja.pdb
